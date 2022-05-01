@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PinCode</string>
+    <string name="text">Введите код</string>
+    <string name="text1">1</string>
+    <string name="text2">2</string>
+    <string name="text3">3</string>
+    <string name="text4">4</string>
+    <string name="text5">5</string>
+    <string name="text6">6</string>
+    <string name="text7">7</string>
+    <string name="text8">8</string>
+    <string name="text9">9</string>
+    <string name="text10">0</string>
+    <string name="text11"><![CDATA[<]]></string>
+    <string name="text12">Ok</string>
+</resources>
